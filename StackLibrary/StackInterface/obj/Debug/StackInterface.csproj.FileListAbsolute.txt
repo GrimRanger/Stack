@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackInterface\bin\Debug\StackInterface.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackInterface\bin\Debug\StackInterface.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackInterface\obj\Debug\StackInterface.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackInterface\obj\Debug\StackInterface.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackInterface\obj\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackInterface\bin\Debug\StackInterface.dll
+F:\программы\Ovchenkov\StackLibrary\StackInterface\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackInterface\obj\Debug\StackInterface.csprojResolveAssemblyReference.cache
+F:\программы\Ovchenkov\StackLibrary\StackInterface\obj\Debug\StackInterface.dll
+F:\программы\Ovchenkov\StackLibrary\StackInterface\obj\Debug\StackInterface.pdb

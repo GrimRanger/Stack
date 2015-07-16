@@ -1,0 +1,21 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.pdb
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.dll
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.csprojResolveAssemblyReference.cache
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.pdb
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.dll
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackArrayLibrary.pdb
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.dll
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\bin\Debug\StackInterface.pdb
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.csprojResolveAssemblyReference.cache
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.dll
+F:\Ovchenkov\StackLibrary\StackArrayLibrary\obj\Debug\StackArrayLibrary.pdb

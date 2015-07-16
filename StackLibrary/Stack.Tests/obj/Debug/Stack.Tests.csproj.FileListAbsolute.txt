@@ -1,0 +1,44 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackInterface.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\Stack.Tests\bin\Debug\StackInterface.pdb
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.dll
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.pdb
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.dll
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.dll
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.dll
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.pdb
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.pdb
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.pdb
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.dll
+F:\GitHub\Students\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.dll
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.dll
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.dll
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.pdb
+F:\программы\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.csprojResolveAssemblyReference.cache
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.dll
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\Stack.Tests.pdb
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.dll
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.dll
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.dll
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackArrayLibrary.pdb
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackInterface.pdb
+F:\Ovchenkov\StackLibrary\Stack.Tests\bin\Debug\StackLibrary.pdb
+F:\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.csprojResolveAssemblyReference.cache
+F:\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.dll
+F:\Ovchenkov\StackLibrary\Stack.Tests\obj\Debug\Stack.Tests.pdb

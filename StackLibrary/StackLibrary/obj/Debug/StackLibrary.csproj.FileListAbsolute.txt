@@ -1,0 +1,14 @@
+c:\users\alex\documents\visual studio 2013\Projects\StackLibrary\StackLibrary\bin\Debug\StackLibrary.dll
+c:\users\alex\documents\visual studio 2013\Projects\StackLibrary\StackLibrary\bin\Debug\StackLibrary.pdb
+c:\users\alex\documents\visual studio 2013\Projects\StackLibrary\StackLibrary\obj\Debug\StackLibrary.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\StackLibrary\StackLibrary\obj\Debug\StackLibrary.dll
+c:\users\alex\documents\visual studio 2013\Projects\StackLibrary\StackLibrary\obj\Debug\StackLibrary.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackLibrary\bin\Debug\StackInterface.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\StackLibrary\StackLibrary\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\bin\Debug\StackLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\bin\Debug\StackLibrary.pdb
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\bin\Debug\StackInterface.dll
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\bin\Debug\StackInterface.pdb
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\obj\Debug\StackLibrary.csprojResolveAssemblyReference.cache
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\obj\Debug\StackLibrary.dll
+F:\программы\Ovchenkov\StackLibrary\StackLibrary\obj\Debug\StackLibrary.pdb
